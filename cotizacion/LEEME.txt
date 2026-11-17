@@ -1,0 +1,6 @@
+BORRADOR PARA COMPLETAR ANTES DE ENVIAR
+
+Completar empresa destinataria, datos del proveedor, número, fecha, moneda, monto, impuestos, total y plazo.
+Las condiciones de 50/50, dos rondas, 30 días de correcciones y 15 días de validez son propuestas comerciales editables; confirmar antes de emitir.
+El servicio base excluye configuración de kiosco e instalación por equipo, que deben presupuestarse por separado una vez confirmado el hardware.
+El PDF se genera desde Cotizacion-Dove.html. Para cambiarlo, editar scripts/create-quotation.mjs y ejecutar node scripts/create-quotation.mjs.
